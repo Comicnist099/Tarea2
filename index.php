@@ -1,5 +1,5 @@
 <?php include('./templates/header.php') ?>
-        <?php echo "Hola ajaj"; ?>
+        <?php echo "Hola estatus"; ?>
 
          <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
              <ul class="nav navbar-nav">
