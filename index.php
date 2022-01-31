@@ -1,5 +1,5 @@
 <?php include('./templates/header.php') ?>
-        <?php echo "Hola estatus"; ?>
+        <?php echo "Hola como estas"; ?>
 
          <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
              <ul class="nav navbar-nav">
